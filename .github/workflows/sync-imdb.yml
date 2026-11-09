@@ -1,0 +1,48 @@
+name: Sync IMDb watchlist
+
+on:
+  schedule:
+    # Every 15 minutes, subject to GitHub's scheduling delays.
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync_imdb.py'
+      - '.github/workflows/sync-imdb.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: imdb-watchlist-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test parser and safety checks
+        run: python -m unittest discover -s tests -v
+      - name: Fetch and validate complete IMDb watchlist
+        run: python scripts/sync_imdb.py
+      - name: Commit only if the watchlist changed
+        run: |
+          git add -- movies.json movies.csv
+          if git diff --cached --quiet; then
+            echo 'Watchlist unchanged; no commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Sync IMDb watchlist'
+          git push
