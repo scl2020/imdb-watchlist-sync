@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/sync_imdb.py'
+      - 'tests/test_sync_imdb.py'
       - '.github/workflows/sync-imdb.yml'
 
 permissions:
