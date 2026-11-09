@@ -1,0 +1,28 @@
+name: Keep scheduled IMDb sync active
+
+# GitHub may disable scheduled workflows in public repos after 60 days with
+# no repository activity. This small heartbeat provides occasional activity.
+on:
+  schedule:
+    - cron: '13 8 1,15 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Record heartbeat
+        run: |
+          date -u '+%Y-%m-%d' > .sync-heartbeat
+          git add .sync-heartbeat
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Keep IMDb sync schedule active'
+          git push
