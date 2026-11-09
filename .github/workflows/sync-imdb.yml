@@ -10,6 +10,8 @@ on:
     paths:
       - 'scripts/sync_imdb.py'
       - 'tests/test_sync_imdb.py'
+      # Edit sync-request.txt to trigger a fresh check from ChatGPT without changing code.
+      - 'sync-request.txt'
       - '.github/workflows/sync-imdb.yml'
 
 permissions:
