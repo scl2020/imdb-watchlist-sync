@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1383,
-  "updated_at_utc": "2026-11-09T23:55:11+00:00",
+  "count": 1380,
+  "updated_at_utc": "2026-11-10T04:48:55+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -1793,20 +1793,6 @@
       "runtime_minutes": 88,
       "plot": "Seven stories are trying to answer the question: what is sex? Or maybe they are not trying.",
       "imdb_url": "https://www.imdb.com/title/tt0068555/"
-    },
-    {
-      "imdb_id": "tt0068646",
-      "title": "The Godfather",
-      "year": 1972,
-      "type": "Movie",
-      "imdb_rating": 9.2,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "runtime_minutes": 175,
-      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-      "imdb_url": "https://www.imdb.com/title/tt0068646/"
     },
     {
       "imdb_id": "tt0069280",
@@ -5091,19 +5077,6 @@
       "runtime_minutes": 133,
       "plot": "A young lawyer, Richard Goodwin, investigates a potentially fixed game show. Charles Van Doren, a big time show winner, is under Goodwin's investigation.",
       "imdb_url": "https://www.imdb.com/title/tt0110932/"
-    },
-    {
-      "imdb_id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "type": "Movie",
-      "imdb_rating": 9.3,
-      "genres": [
-        "Drama"
-      ],
-      "runtime_minutes": 142,
-      "plot": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption.",
-      "imdb_url": "https://www.imdb.com/title/tt0111161/"
     },
     {
       "imdb_id": "tt0111257",
@@ -8744,20 +8717,6 @@
       "runtime_minutes": 106,
       "plot": "An inner-city junior high school teacher with a drug habit forms an unlikely friendship with one of his students after she discovers his secret.",
       "imdb_url": "https://www.imdb.com/title/tt0468489/"
-    },
-    {
-      "imdb_id": "tt0468569",
-      "title": "The Dark Knight",
-      "year": 2008,
-      "type": "Movie",
-      "imdb_rating": 9.1,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "runtime_minutes": 152,
-      "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
-      "imdb_url": "https://www.imdb.com/title/tt0468569/"
     },
     {
       "imdb_id": "tt0469494",
@@ -16542,7 +16501,7 @@
       "title": "Victorian Psycho",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.1,
+      "imdb_rating": 6.2,
       "genres": [
         "Horror",
         "Thriller"
@@ -17459,7 +17418,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.7,
+      "imdb_rating": 7.6,
       "genres": [
         "Biography",
         "Comedy",
