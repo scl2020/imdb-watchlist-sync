@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1380,
-  "updated_at_utc": "2026-11-10T04:48:55+00:00",
+  "count": 1379,
+  "updated_at_utc": "2026-11-10T13:04:28+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -7264,19 +7264,6 @@
       "imdb_url": "https://www.imdb.com/title/tt0283111/"
     },
     {
-      "imdb_id": "tt0284837",
-      "title": "Ali G Indahouse",
-      "year": 2002,
-      "type": "Movie",
-      "imdb_rating": 6.2,
-      "genres": [
-        "Comedy"
-      ],
-      "runtime_minutes": 87,
-      "plot": "Ali G unwittingly becomes a pawn in the Chancellor's plot to overthrow the Prime Minister of Great Britain. However, Ali is embraced by the nation as a voice of the youth, making the PM and his government more popular than ever.",
-      "imdb_url": "https://www.imdb.com/title/tt0284837/"
-    },
-    {
       "imdb_id": "tt0286751",
       "title": "Pulse",
       "year": 2001,
@@ -14480,7 +14467,7 @@
       "title": "Queen at Sea",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.6,
+      "imdb_rating": 7.5,
       "genres": [
         "Drama",
         "Thriller"
@@ -17418,7 +17405,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.6,
+      "imdb_rating": 7.7,
       "genres": [
         "Biography",
         "Comedy",
