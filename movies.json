@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-11T07:42:17+00:00",
+  "updated_at_utc": "2026-11-11T15:38:52+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -17292,7 +17292,7 @@
       "title": "Atonement",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.3,
+      "imdb_rating": 6.1,
       "genres": [
         "War",
         "Drama"
@@ -17689,6 +17689,7 @@
       "type": "Movie",
       "imdb_rating": null,
       "genres": [
+        "Adventure",
         "Comedy",
         "Drama",
         "Fantasy",
