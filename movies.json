@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-11T00:52:28+00:00",
+  "updated_at_utc": "2026-11-11T07:42:17+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -14327,7 +14327,7 @@
       "title": "Orwell: 2+2=5",
       "year": 2025,
       "type": "Movie",
-      "imdb_rating": 6.8,
+      "imdb_rating": 6.9,
       "genres": [
         "Documentary",
         "Biography",
@@ -17292,7 +17292,7 @@
       "title": "Atonement",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.4,
+      "imdb_rating": 6.3,
       "genres": [
         "War",
         "Drama"
