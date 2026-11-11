@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-10T20:26:27+00:00",
+  "updated_at_utc": "2026-11-11T00:52:28+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16581,7 +16581,7 @@
       "title": "Paper Tiger",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7,
+      "imdb_rating": 6.9,
       "genres": [
         "Crime",
         "Drama",
@@ -16961,6 +16961,7 @@
         "Action",
         "Comedy",
         "Crime",
+        "Drama",
         "Thriller"
       ],
       "runtime_minutes": 122,
@@ -17291,7 +17292,7 @@
       "title": "Atonement",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.3,
+      "imdb_rating": 6.4,
       "genres": [
         "War",
         "Drama"
@@ -17945,7 +17946,7 @@
       "title": "Everytime",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.2,
+      "imdb_rating": 7.3,
       "genres": [
         "Drama"
       ],
@@ -18093,7 +18094,7 @@
       "title": "Naza",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.4,
+      "imdb_rating": 8.3,
       "genres": [
         "Documentary",
         "War"
@@ -19092,6 +19093,7 @@
       "genres": [
         "Drama",
         "Fantasy",
+        "Horror",
         "Mystery",
         "Romance",
         "Thriller"
