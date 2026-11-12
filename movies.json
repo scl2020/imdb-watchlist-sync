@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1379,
-  "updated_at_utc": "2026-11-11T22:19:41+00:00",
+  "count": 1378,
+  "updated_at_utc": "2026-11-12T03:09:31+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -10580,7 +10580,7 @@
       "title": "I Play Rocky",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8,
+      "imdb_rating": 8.1,
       "genres": [
         "Biography",
         "Comedy",
@@ -16037,7 +16037,7 @@
       "title": "Blades of the Guardians",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.7,
+      "imdb_rating": 6.8,
       "genres": [
         "Action",
         "Adventure",
@@ -16147,7 +16147,7 @@
       "title": "In a Violent Nature 2",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6,
+      "imdb_rating": 5.8,
       "genres": [
         "Horror"
       ],
@@ -16956,7 +16956,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": null,
+      "imdb_rating": 6.9,
       "genres": [
         "Action",
         "Comedy",
@@ -17633,7 +17633,7 @@
       "title": "Play House",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.5,
+      "imdb_rating": 6.6,
       "genres": [
         "Horror"
       ],
@@ -17687,7 +17687,7 @@
       "title": "Ebenezer",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": null,
+      "imdb_rating": 6.9,
       "genres": [
         "Adventure",
         "Comedy",
@@ -17947,7 +17947,7 @@
       "title": "Everytime",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.3,
+      "imdb_rating": 7.2,
       "genres": [
         "Drama"
       ],
@@ -18031,19 +18031,6 @@
       "runtime_minutes": 105,
       "plot": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
       "imdb_url": "https://www.imdb.com/title/tt4357198/"
-    },
-    {
-      "imdb_id": "tt43655467",
-      "title": "Ali G: Who Iz I?",
-      "year": 2026,
-      "type": "Movie",
-      "imdb_rating": 5,
-      "genres": [
-        "Comedy"
-      ],
-      "runtime_minutes": 89,
-      "plot": "When Ali G discovers that his long-term girlfriend is 8 months pregnant, he ends his 20 year nap and heads to America to reclaim his former glory and earn some \"cashmoney\". This turns out to be far from the formality he expected.",
-      "imdb_url": "https://www.imdb.com/title/tt43655467/"
     },
     {
       "imdb_id": "tt4375438",
