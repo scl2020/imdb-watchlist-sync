@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1378,
-  "updated_at_utc": "2026-11-12T11:29:48+00:00",
+  "count": 1379,
+  "updated_at_utc": "2026-11-13T00:15:46+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -3170,6 +3170,21 @@
       "runtime_minutes": 114,
       "plot": "A struggling actor house-sits a luxurious home and becomes obsessed with a beautiful neighbor, and gets entangled in voyeurism, murder, and Hollywood intrigue.",
       "imdb_url": "https://www.imdb.com/title/tt0086984/"
+    },
+    {
+      "imdb_id": "tt0087056",
+      "title": "A Christmas Carol",
+      "year": 1984,
+      "type": "TV Movie",
+      "imdb_rating": 7.8,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "runtime_minutes": 100,
+      "plot": "A bitter old miser who rationalizes his uncaring nature learns real compassion when three spirits visit him on Christmas Eve.",
+      "imdb_url": "https://www.imdb.com/title/tt0087056/"
     },
     {
       "imdb_id": "tt0087363",
@@ -16956,7 +16971,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.3,
+      "imdb_rating": 6.2,
       "genres": [
         "Action",
         "Comedy",
@@ -17278,7 +17293,7 @@
       "title": "Bunker",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.2,
+      "imdb_rating": 6.3,
       "genres": [
         "Drama",
         "Thriller"
@@ -17292,7 +17307,7 @@
       "title": "Atonement",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 5.9,
+      "imdb_rating": 5.8,
       "genres": [
         "War",
         "Drama"
@@ -17825,7 +17840,7 @@
       "title": "The Samurai and the Prisoner",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7,
       "genres": [
         "Drama",
         "History",
