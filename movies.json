@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1380,
-  "updated_at_utc": "2026-11-13T15:18:50+00:00",
+  "count": 1379,
+  "updated_at_utc": "2026-11-13T21:27:47+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16484,22 +16484,6 @@
       "imdb_url": "https://www.imdb.com/title/tt3420504/"
     },
     {
-      "imdb_id": "tt34206385",
-      "title": "Primetime",
-      "year": 2026,
-      "type": "Movie",
-      "imdb_rating": 6.9,
-      "genres": [
-        "Biography",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 109,
-      "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-      "imdb_url": "https://www.imdb.com/title/tt34206385/"
-    },
-    {
       "imdb_id": "tt34338540",
       "title": "6 Days",
       "year": 2025,
@@ -17322,7 +17306,7 @@
       "title": "Atonement",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 5.8,
+      "imdb_rating": 5.9,
       "genres": [
         "War",
         "Drama"
