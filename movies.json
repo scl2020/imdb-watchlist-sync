@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1379,
-  "updated_at_utc": "2026-11-13T00:15:46+00:00",
+  "count": 1380,
+  "updated_at_utc": "2026-11-13T06:04:32+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -6875,6 +6875,21 @@
       "imdb_url": "https://www.imdb.com/title/tt0221027/"
     },
     {
+      "imdb_id": "tt0236027",
+      "title": "Flickering Lights",
+      "year": 2000,
+      "type": "Movie",
+      "imdb_rating": 7.5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtime_minutes": 109,
+      "plot": "A gang of 4 Danish criminals are ordered by Færingen to steal a bag from a safe. When they see DKK4,000,000 in the bag, they keep it for themselves and head for Spain. They end up in a ruin of an old restaurant on Jutland and renovate it.",
+      "imdb_url": "https://www.imdb.com/title/tt0236027/"
+    },
+    {
       "imdb_id": "tt0237572",
       "title": "The Pledge",
       "year": 2001,
@@ -11345,7 +11360,7 @@
       "title": "The Leader",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.8,
+      "imdb_rating": 7.7,
       "genres": [
         "Biography",
         "Crime",
@@ -16971,7 +16986,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.2,
+      "imdb_rating": 6.4,
       "genres": [
         "Action",
         "Comedy",
@@ -17559,7 +17574,7 @@
       "title": "Possible Love",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.8,
+      "imdb_rating": 7.7,
       "genres": [
         "Drama",
         "Romance"
@@ -17702,7 +17717,7 @@
       "title": "Ebenezer",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7,
       "genres": [
         "Adventure",
         "Comedy",
