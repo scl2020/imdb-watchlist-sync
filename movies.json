@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1378,
-  "updated_at_utc": "2026-11-14T01:42:34+00:00",
+  "count": 1377,
+  "updated_at_utc": "2026-11-14T08:08:09+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -3130,7 +3130,7 @@
       "title": "Amadeus",
       "year": 1984,
       "type": "Movie",
-      "imdb_rating": 8.4,
+      "imdb_rating": 8.3,
       "genres": [
         "Biography",
         "Drama",
@@ -14709,7 +14709,7 @@
         "Drama",
         "Fantasy"
       ],
-      "runtime_minutes": 195,
+      "runtime_minutes": 208,
       "plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
       "imdb_url": "https://www.imdb.com/title/tt27988879/"
     },
@@ -16498,20 +16498,6 @@
       "imdb_url": "https://www.imdb.com/title/tt34338540/"
     },
     {
-      "imdb_id": "tt34374553",
-      "title": "Victorian Psycho",
-      "year": 2026,
-      "type": "Movie",
-      "imdb_rating": 6.3,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime_minutes": 102,
-      "plot": "In 1858, an eccentric young governess, Winifred Notty, arrives at the remote gothic manor Ensor House. As Winifred assimilates, staff begin to inexplicably disappear, and the owners wonder if something is amiss about this new governess.",
-      "imdb_url": "https://www.imdb.com/title/tt34374553/"
-    },
-    {
       "imdb_id": "tt34379051",
       "title": "By Any Means",
       "year": 2026,
@@ -16862,7 +16848,7 @@
       "title": "La bola negra",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.1,
+      "imdb_rating": 8.2,
       "genres": [
         "Drama",
         "History",
@@ -17136,7 +17122,7 @@
       "title": "The Mosquito Bowl",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.7,
+      "imdb_rating": 6.6,
       "genres": [
         "Drama",
         "History",
@@ -17451,7 +17437,7 @@
       "title": "Fatherland",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Biography",
         "Drama",
@@ -20053,7 +20039,7 @@
       "title": "Impetigore",
       "year": 2019,
       "type": "Movie",
-      "imdb_rating": 6.6,
+      "imdb_rating": 6.5,
       "genres": [
         "Horror",
         "Mystery",
