@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1377,
-  "updated_at_utc": "2026-11-14T19:58:18+00:00",
+  "count": 1378,
+  "updated_at_utc": "2026-11-14T23:51:09+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -2138,7 +2138,7 @@
       "title": "Dersu Uzala",
       "year": 1975,
       "type": "Movie",
-      "imdb_rating": 8.2,
+      "imdb_rating": 8.1,
       "genres": [
         "Adventure",
         "Biography",
@@ -11341,6 +11341,20 @@
       "imdb_url": "https://www.imdb.com/title/tt13651462/"
     },
     {
+      "imdb_id": "tt13652154",
+      "title": "Mouse",
+      "year": 2026,
+      "type": "Movie",
+      "imdb_rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtime_minutes": 120,
+      "plot": "In 2002, best friends Minnie and Callie's relationship is upended on the eve of their senior year.",
+      "imdb_url": "https://www.imdb.com/title/tt13652154/"
+    },
+    {
       "imdb_id": "tt13694628",
       "title": "Nitram",
       "year": 2021,
@@ -11360,7 +11374,7 @@
       "title": "The Leader",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7.2,
       "genres": [
         "Biography",
         "Crime",
@@ -16848,7 +16862,7 @@
       "title": "La bola negra",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.1,
+      "imdb_rating": 8.2,
       "genres": [
         "Drama",
         "History",
@@ -17196,7 +17210,7 @@
       "title": "Forgotten Island",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.5,
+      "imdb_rating": 7.4,
       "genres": [
         "Animation",
         "Action",
