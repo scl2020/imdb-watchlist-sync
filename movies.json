@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1377,
-  "updated_at_utc": "2026-11-14T08:08:09+00:00",
+  "updated_at_utc": "2026-11-14T15:11:45+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -17306,7 +17306,7 @@
       "title": "All of a Sudden",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8,
+      "imdb_rating": 7.9,
       "genres": [
         "Drama"
       ],
