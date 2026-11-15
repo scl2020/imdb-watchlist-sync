@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1378,
-  "updated_at_utc": "2026-11-15T17:57:37+00:00",
+  "updated_at_utc": "2026-11-15T22:44:27+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -4856,7 +4856,7 @@
         "Thriller"
       ],
       "runtime_minutes": 119,
-      "plot": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+      "plot": "A comic book clerk and a call girl fall in love, steal a suitcase of cocaine by mistake, and flee across the country while pursued by both the Sicilian Mafia and corrupt police who want their stolen product back.",
       "imdb_url": "https://www.imdb.com/title/tt0108399/"
     },
     {
@@ -13505,7 +13505,7 @@
       "title": "The Dog Stars",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.3,
+      "imdb_rating": 6.2,
       "genres": [
         "Action",
         "Sci-Fi",
@@ -16081,7 +16081,7 @@
       "title": "Blades of the Guardians",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.8,
+      "imdb_rating": 6.7,
       "genres": [
         "Action",
         "Adventure",
@@ -17152,7 +17152,7 @@
       "title": "Behemoth!",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.3,
+      "imdb_rating": 7.2,
       "genres": [
         "Drama",
         "Music"
@@ -17451,7 +17451,7 @@
       "title": "Fatherland",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Biography",
         "Drama",
