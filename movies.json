@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1378,
-  "updated_at_utc": "2026-11-16T02:25:35+00:00",
+  "updated_at_utc": "2026-11-16T06:55:15+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16085,6 +16085,7 @@
       "genres": [
         "Action",
         "Adventure",
+        "Comedy",
         "Drama",
         "Western"
       ],
@@ -16151,7 +16152,7 @@
       "title": "Familiar Touch",
       "year": 2024,
       "type": "Movie",
-      "imdb_rating": 7,
+      "imdb_rating": 7.1,
       "genres": [
         "Drama"
       ],
