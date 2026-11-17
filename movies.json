@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1378,
-  "updated_at_utc": "2026-11-17T03:08:11+00:00",
+  "count": 1379,
+  "updated_at_utc": "2026-11-17T12:05:27+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16971,7 +16971,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.4,
+      "imdb_rating": 6.5,
       "genres": [
         "Action",
         "Comedy",
@@ -16979,7 +16979,7 @@
         "Drama",
         "Thriller"
       ],
-      "runtime_minutes": 122,
+      "runtime_minutes": 121,
       "plot": "Bank robbers are posting their heists on social media, causing police to chase them.",
       "imdb_url": "https://www.imdb.com/title/tt35866986/"
     },
@@ -17537,6 +17537,20 @@
       "runtime_minutes": 157,
       "plot": "Follows a couple with a significant age difference as they navigate their romantic relationship.",
       "imdb_url": "https://www.imdb.com/title/tt37535100/"
+    },
+    {
+      "imdb_id": "tt37764737",
+      "title": "Once We Were Us",
+      "year": 2025,
+      "type": "Movie",
+      "imdb_rating": 7.1,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtime_minutes": 114,
+      "plot": "Two former lovers cross paths on a flight to Korea, stirring memories of their chance meeting in 2008, when they found love amid Seoul's chaos before life pulled them apart.",
+      "imdb_url": "https://www.imdb.com/title/tt37764737/"
     },
     {
       "imdb_id": "tt37799273",
