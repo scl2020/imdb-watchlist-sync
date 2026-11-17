@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-17T12:05:27+00:00",
+  "updated_at_utc": "2026-11-17T20:49:33+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16971,7 +16971,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.5,
+      "imdb_rating": 6.4,
       "genres": [
         "Action",
         "Comedy",
@@ -17093,7 +17093,7 @@
       "title": "Pretty Babies",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6,
+      "imdb_rating": 6.1,
       "genres": [
         "Drama"
       ],
@@ -20196,7 +20196,7 @@
         "Drama",
         "Fantasy"
       ],
-      "runtime_minutes": 130,
+      "runtime_minutes": 129,
       "plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
       "imdb_url": "https://www.imdb.com/title/tt9243804/"
     },
