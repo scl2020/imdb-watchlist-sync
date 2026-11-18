@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-18T02:38:08+00:00",
+  "updated_at_utc": "2026-11-18T10:46:51+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -17573,7 +17573,7 @@
       "title": "Possible Love",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.6,
+      "imdb_rating": 7.7,
       "genres": [
         "Drama",
         "Romance"
@@ -17724,7 +17724,7 @@
         "Fantasy",
         "Thriller"
       ],
-      "runtime_minutes": 116,
+      "runtime_minutes": 115,
       "plot": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
       "imdb_url": "https://www.imdb.com/title/tt38773219/"
     },
