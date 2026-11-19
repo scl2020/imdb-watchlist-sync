@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-19T01:17:44+00:00",
+  "updated_at_utc": "2026-11-19T08:54:07+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -11345,7 +11345,7 @@
       "title": "Mouse",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.9,
+      "imdb_rating": 8,
       "genres": [
         "Comedy",
         "Drama"
@@ -17602,7 +17602,7 @@
       "title": "Club Kid",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.2,
+      "imdb_rating": 8.1,
       "genres": [
         "Comedy",
         "Drama"
