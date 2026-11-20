@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-20T16:26:55+00:00",
+  "updated_at_utc": "2026-11-20T22:47:45+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -3130,7 +3130,7 @@
       "title": "Amadeus",
       "year": 1984,
       "type": "Movie",
-      "imdb_rating": 8.3,
+      "imdb_rating": 8.4,
       "genres": [
         "Biography",
         "Drama",
@@ -7414,7 +7414,7 @@
       "title": "Ten",
       "year": 2002,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Drama"
       ],
@@ -11008,7 +11008,7 @@
         "Drama"
       ],
       "runtime_minutes": 129,
-      "plot": "When a young mother reconsiders abandoning her baby, she discovers a scheme selling foundlings for adoption.",
+      "plot": "Two men who arrange adoptions for abandoned babies become involved with a mother who returns for her child, while two detectives pursue them for their activities.",
       "imdb_url": "https://www.imdb.com/title/tt13056052/"
     },
     {
@@ -17421,7 +17421,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.6,
+      "imdb_rating": 7.7,
       "genres": [
         "Biography",
         "Comedy",
@@ -17682,7 +17682,7 @@
         "Sci-Fi"
       ],
       "runtime_minutes": 126,
-      "plot": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+      "plot": "In the near future, an architect and her husband, who runs a construction company, decide to take in a state-of-the-art humanoid as their son.",
       "imdb_url": "https://www.imdb.com/title/tt38551209/"
     },
     {
