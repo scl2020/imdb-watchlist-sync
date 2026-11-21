@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1379,
-  "updated_at_utc": "2026-11-20T22:47:45+00:00",
+  "updated_at_utc": "2026-11-21T03:33:34+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -655,7 +655,7 @@
       "title": "To Catch a Thief",
       "year": 1955,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Drama",
         "Mystery",
@@ -10610,7 +10610,7 @@
       "title": "I Play Rocky",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.1,
+      "imdb_rating": 8.2,
       "genres": [
         "Biography",
         "Comedy",
@@ -17838,7 +17838,7 @@
       "title": "Coward",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.5,
+      "imdb_rating": 7.4,
       "genres": [
         "Drama",
         "History",
@@ -20083,7 +20083,7 @@
       "title": "Ghost in the Cell",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.5,
+      "imdb_rating": 6.4,
       "genres": [
         "Action",
         "Comedy",
