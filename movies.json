@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1379,
-  "updated_at_utc": "2026-11-21T03:33:34+00:00",
+  "count": 1380,
+  "updated_at_utc": "2026-11-21T11:42:50+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16411,6 +16411,19 @@
       "imdb_url": "https://www.imdb.com/title/tt33612209/"
     },
     {
+      "imdb_id": "tt3365778",
+      "title": "Breathe",
+      "year": 2014,
+      "type": "Movie",
+      "imdb_rating": 7,
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 91,
+      "plot": "Charlie is an average French suburban teenager, but when she becomes fast friends with Sarah, the rebellious new girl at school, she discovers there's nothing average about how she feels.",
+      "imdb_url": "https://www.imdb.com/title/tt3365778/"
+    },
+    {
       "imdb_id": "tt33852162",
       "title": "A Private Life",
       "year": 2025,
@@ -17602,7 +17615,7 @@
       "title": "Club Kid",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.1,
+      "imdb_rating": 8.2,
       "genres": [
         "Comedy",
         "Drama"
