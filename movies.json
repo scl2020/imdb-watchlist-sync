@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1380,
-  "updated_at_utc": "2026-11-21T11:42:50+00:00",
+  "count": 1381,
+  "updated_at_utc": "2026-11-21T18:17:18+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -655,7 +655,7 @@
       "title": "To Catch a Thief",
       "year": 1955,
       "type": "Movie",
-      "imdb_rating": 7.3,
+      "imdb_rating": 7.4,
       "genres": [
         "Drama",
         "Mystery",
@@ -17026,6 +17026,19 @@
       "imdb_url": "https://www.imdb.com/title/tt35927674/"
     },
     {
+      "imdb_id": "tt36107185",
+      "title": "La Gradiva",
+      "year": 2026,
+      "type": "Movie",
+      "imdb_rating": 7.5,
+      "genres": [
+        "Drama"
+      ],
+      "runtime_minutes": 145,
+      "plot": "A class of French high school students spends a week in Naples and Pompeii. One of them tries to uncover his family's secret, while desire and tension run high in the group.",
+      "imdb_url": "https://www.imdb.com/title/tt36107185/"
+    },
+    {
       "imdb_id": "tt36118360",
       "title": "Tu Yaa Main",
       "year": 2026,
@@ -17405,7 +17418,7 @@
       "title": "Gentle Monster",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.7,
+      "imdb_rating": 6.6,
       "genres": [
         "Drama",
         "Thriller"
@@ -17434,7 +17447,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.7,
+      "imdb_rating": 7.6,
       "genres": [
         "Biography",
         "Comedy",
@@ -17615,7 +17628,7 @@
       "title": "Club Kid",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.2,
+      "imdb_rating": 8.1,
       "genres": [
         "Comedy",
         "Drama"
@@ -17773,7 +17786,7 @@
       "title": "Ha-Chan, Shake Your Booty!",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7,
       "genres": [
         "Comedy",
         "Drama",
@@ -20081,7 +20094,7 @@
       "title": "Impetigore",
       "year": 2019,
       "type": "Movie",
-      "imdb_rating": 6.5,
+      "imdb_rating": 6.6,
       "genres": [
         "Horror",
         "Mystery",
