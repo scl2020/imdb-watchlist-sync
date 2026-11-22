@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1381,
-  "updated_at_utc": "2026-11-22T03:27:04+00:00",
+  "updated_at_utc": "2026-11-22T11:55:57+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -3737,7 +3737,7 @@
         "Thriller"
       ],
       "runtime_minutes": 107,
-      "plot": "A young opera singer on the cusp of stardom is hounded by a psychopath with a connection to her past, who forces her to watch as he brutally murders her friends and colleagues.",
+      "plot": "A young opera soprano on the cusp of stardom is hounded by a psychopath with a connection to her past, who forces her to watch as he brutally murders her friends and colleagues.",
       "imdb_url": "https://www.imdb.com/title/tt0093677/"
     },
     {
@@ -17447,7 +17447,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.6,
+      "imdb_rating": 7.5,
       "genres": [
         "Biography",
         "Comedy",
@@ -17613,7 +17613,7 @@
       "title": "Ink",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.9,
+      "imdb_rating": 7,
       "genres": [
         "Biography",
         "Drama",
