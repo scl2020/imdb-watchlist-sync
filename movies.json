@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1381,
-  "updated_at_utc": "2026-11-22T11:55:57+00:00",
+  "updated_at_utc": "2026-11-22T19:28:51+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -655,7 +655,7 @@
       "title": "To Catch a Thief",
       "year": 1955,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Drama",
         "Mystery",
@@ -16009,7 +16009,7 @@
       "title": "Practical Magic 2",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6,
+      "imdb_rating": 5.9,
       "genres": [
         "Comedy",
         "Fantasy",
@@ -17523,7 +17523,7 @@
       "title": "The Social Reckoning",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.7,
+      "imdb_rating": 6.6,
       "genres": [
         "Biography",
         "Drama",
@@ -20199,7 +20199,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": null,
+      "imdb_rating": 7.4,
       "genres": [
         "Biography",
         "Crime",
