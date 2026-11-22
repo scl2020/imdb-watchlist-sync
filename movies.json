@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1381,
-  "updated_at_utc": "2026-11-21T23:28:21+00:00",
+  "updated_at_utc": "2026-11-22T03:27:04+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -17179,7 +17179,7 @@
       "title": "Behemoth!",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7.2,
       "genres": [
         "Drama",
         "Music"
@@ -17628,7 +17628,7 @@
       "title": "Club Kid",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.1,
+      "imdb_rating": 8.2,
       "genres": [
         "Comedy",
         "Drama"
