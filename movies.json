@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1381,
-  "updated_at_utc": "2026-11-23T00:27:43+00:00",
+  "updated_at_utc": "2026-11-23T08:07:47+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -655,7 +655,7 @@
       "title": "To Catch a Thief",
       "year": 1955,
       "type": "Movie",
-      "imdb_rating": 7.3,
+      "imdb_rating": 7.4,
       "genres": [
         "Drama",
         "Mystery",
@@ -5818,7 +5818,7 @@
         "Thriller"
       ],
       "runtime_minutes": 154,
-      "plot": "A flight attendant with a criminal past gets nabbed by the ATF for smuggling. Under pressure to become an informant against the illegal arms dealer she works for, she must find a way to secure her future without getting killed.",
+      "plot": "A stewardess with a criminal past gets nabbed by the ATF for smuggling. Under pressure to become an informant against the illegal arms dealer she works for, she must find a way to secure her future without getting killed.",
       "imdb_url": "https://www.imdb.com/title/tt0119396/"
     },
     {
@@ -17613,7 +17613,7 @@
       "title": "Ink",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.9,
+      "imdb_rating": 7,
       "genres": [
         "Biography",
         "Drama",
@@ -20199,7 +20199,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 6.3,
       "genres": [
         "Biography",
         "Crime",
