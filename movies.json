@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1381,
-  "updated_at_utc": "2026-11-22T19:28:51+00:00",
+  "updated_at_utc": "2026-11-23T00:27:43+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -11374,7 +11374,7 @@
       "title": "The Leader",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7.2,
       "genres": [
         "Biography",
         "Crime",
@@ -17613,7 +17613,7 @@
       "title": "Ink",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7,
+      "imdb_rating": 6.9,
       "genres": [
         "Biography",
         "Drama",
