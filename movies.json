@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1382,
-  "updated_at_utc": "2026-11-23T10:14:10+00:00",
+  "updated_at_utc": "2026-11-23T20:20:57+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -655,7 +655,7 @@
       "title": "To Catch a Thief",
       "year": 1955,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Drama",
         "Mystery",
@@ -19957,7 +19957,7 @@
       "title": "The Liberation",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.1,
+      "imdb_rating": 7,
       "genres": [
         "Drama",
         "Mystery",
@@ -20212,7 +20212,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 5,
+      "imdb_rating": 5.2,
       "genres": [
         "Biography",
         "Crime",
