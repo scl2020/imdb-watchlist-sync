@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1382,
-  "updated_at_utc": "2026-11-23T20:20:57+00:00",
+  "count": 1381,
+  "updated_at_utc": "2026-11-24T04:52:19+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -13499,21 +13499,6 @@
       "runtime_minutes": 104,
       "plot": "Lifelong friends Eden and Dawn, one single and wanting a baby, the other already a mother, navigate challenges to their bond when Eden pursues pregnancy alone after a one-night stand.",
       "imdb_url": "https://www.imdb.com/title/tt21276958/"
-    },
-    {
-      "imdb_id": "tt21285562",
-      "title": "The Dog Stars",
-      "year": 2026,
-      "type": "Movie",
-      "imdb_rating": 6.2,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "runtime_minutes": 118,
-      "plot": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife.",
-      "imdb_url": "https://www.imdb.com/title/tt21285562/"
     },
     {
       "imdb_id": "tt21307994",
