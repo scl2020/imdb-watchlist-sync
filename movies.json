@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1381,
-  "updated_at_utc": "2026-11-24T15:45:07+00:00",
+  "updated_at_utc": "2026-11-25T00:09:30+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -11374,7 +11374,7 @@
       "title": "The Leader",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.2,
+      "imdb_rating": 7.1,
       "genres": [
         "Biography",
         "Crime",
@@ -16600,7 +16600,7 @@
         "Drama",
         "Thriller"
       ],
-      "runtime_minutes": 115,
+      "runtime_minutes": 114,
       "plot": "Two brothers pursue the American Dream but get entangled in a dangerous Russian mafia scheme that terrorizes their family, testing their bond as betrayal becomes possible.",
       "imdb_url": "https://www.imdb.com/title/tt34385689/"
     },
@@ -17445,7 +17445,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.5,
+      "imdb_rating": 7.4,
       "genres": [
         "Biography",
         "Comedy",
@@ -17626,7 +17626,7 @@
       "title": "Club Kid",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8.2,
+      "imdb_rating": 8.1,
       "genres": [
         "Comedy",
         "Drama"
@@ -17869,7 +17869,7 @@
         "Romance",
         "War"
       ],
-      "runtime_minutes": 120,
+      "runtime_minutes": 127,
       "plot": "Pierre, a young Belgian soldier wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
       "imdb_url": "https://www.imdb.com/title/tt39328391/"
     },
