@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1382,
-  "updated_at_utc": "2026-11-25T18:52:35+00:00",
+  "count": 1381,
+  "updated_at_utc": "2026-11-26T02:08:24+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16594,7 +16594,7 @@
       "title": "Paper Tiger",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.9,
+      "imdb_rating": 7,
       "genres": [
         "Crime",
         "Drama",
@@ -16744,7 +16744,7 @@
       "title": "Focker In-Law",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": null,
+      "imdb_rating": 5.8,
       "genres": [
         "Comedy"
       ],
@@ -17131,7 +17131,7 @@
       "title": "The Further Mis-Adventures of Cliff Booth",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": null,
+      "imdb_rating": 8,
       "genres": [
         "Action",
         "Comedy",
@@ -19642,22 +19642,6 @@
       "imdb_url": "https://www.imdb.com/title/tt7461686/"
     },
     {
-      "imdb_id": "tt7526136",
-      "title": "Heart of the Beast",
-      "year": 2026,
-      "type": "Movie",
-      "imdb_rating": 7.1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Thriller"
-      ],
-      "runtime_minutes": 101,
-      "plot": "After a harrowing plane crash, Special Forces veteran James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "imdb_url": "https://www.imdb.com/title/tt7526136/"
-    },
-    {
       "imdb_id": "tt7527682",
       "title": "Out of Darkness",
       "year": 2022,
@@ -20212,7 +20196,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.1,
+      "imdb_rating": 6.4,
       "genres": [
         "Biography",
         "Crime",
