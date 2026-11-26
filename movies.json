@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1381,
-  "updated_at_utc": "2026-11-26T02:08:24+00:00",
+  "count": 1382,
+  "updated_at_utc": "2026-11-26T11:05:49+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -15456,6 +15456,23 @@
       "imdb_url": "https://www.imdb.com/title/tt31371971/"
     },
     {
+      "imdb_id": "tt31378509",
+      "title": "Dune: Part Three",
+      "year": 2026,
+      "type": "Movie",
+      "imdb_rating": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtime_minutes": 150,
+      "plot": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+      "imdb_url": "https://www.imdb.com/title/tt31378509/"
+    },
+    {
       "imdb_id": "tt31450459",
       "title": "Digger",
       "year": 2026,
@@ -16744,9 +16761,10 @@
       "title": "Focker In-Law",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 5.8,
+      "imdb_rating": 6.1,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
       "runtime_minutes": 105,
       "plot": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
@@ -16868,7 +16886,7 @@
         "Romance",
         "War"
       ],
-      "runtime_minutes": 160,
+      "runtime_minutes": 159,
       "plot": "Explores what it means to be gay throughout different eras, focusing on \"three existences\" that are connected through themes of sexuality, desire, pain, and inheritance.",
       "imdb_url": "https://www.imdb.com/title/tt35511966/"
     },
@@ -17131,7 +17149,7 @@
       "title": "The Further Mis-Adventures of Cliff Booth",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8,
+      "imdb_rating": 7.9,
       "genres": [
         "Action",
         "Comedy",
@@ -17148,7 +17166,7 @@
       "title": "The Mosquito Bowl",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.5,
+      "imdb_rating": 6.6,
       "genres": [
         "Drama",
         "History",
@@ -17436,7 +17454,7 @@
         "Drama",
         "Thriller"
       ],
-      "runtime_minutes": 135,
+      "runtime_minutes": 141,
       "plot": "A high-powered executive's meticulously controlled existence unravels when professional crises, global chaos, and marital betrayal converge, pushing him toward a dangerous breaking point.",
       "imdb_url": "https://www.imdb.com/title/tt37118301/"
     },
@@ -20196,7 +20214,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.4,
+      "imdb_rating": 6.9,
       "genres": [
         "Biography",
         "Crime",
