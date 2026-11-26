@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1382,
-  "updated_at_utc": "2026-11-26T11:05:49+00:00",
+  "updated_at_utc": "2026-11-26T20:08:06+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -16761,7 +16761,7 @@
       "title": "Focker In-Law",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.1,
+      "imdb_rating": 6,
       "genres": [
         "Comedy",
         "Drama"
@@ -17341,7 +17341,7 @@
         "Thriller"
       ],
       "runtime_minutes": 119,
-      "plot": "Follows a married couple of 17 years. The husband is an architect who accepts a controversial project to build a survivalist bunker for a tech billionaire. This decision leads his wife to question their marriage.",
+      "plot": "When an architect accepts a controversial project to build a survivalist bunker for a tech billionaire, his wife starts to question their 17-year marriage.",
       "imdb_url": "https://www.imdb.com/title/tt36770512/"
     },
     {
@@ -17554,7 +17554,7 @@
       "title": "The Man I Love",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 5.9,
+      "imdb_rating": 5.8,
       "genres": [
         "Drama",
         "Fantasy",
@@ -17888,7 +17888,7 @@
         "War"
       ],
       "runtime_minutes": 127,
-      "plot": "Pierre, a young Belgian soldier wants to prove himself on the battlefield during the First World War. Behind the frontlines, he meets Francis, who is asked to find a way to boost morale.",
+      "plot": "1916. Pierre, a young Belgian soldier, is eager to prove himself in battle. Behind the lines, he meets Francis, whose job is to lift the troops' spirits. Their love challenges Pierre's idea of courage.",
       "imdb_url": "https://www.imdb.com/title/tt39328391/"
     },
     {
@@ -20214,7 +20214,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.9,
+      "imdb_rating": 7.3,
       "genres": [
         "Biography",
         "Crime",
