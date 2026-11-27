@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1382,
-  "updated_at_utc": "2026-11-26T20:08:06+00:00",
+  "updated_at_utc": "2026-11-27T02:57:22+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -3136,7 +3136,7 @@
         "Drama",
         "Music"
       ],
-      "runtime_minutes": 160,
+      "runtime_minutes": 180,
       "plot": "In 18th-century Vienna, court composer Antonio Salieri becomes awed and consumed by envy when the gifted, irreverent Wolfgang Amadeus Mozart bursts onto the imperial music scene.",
       "imdb_url": "https://www.imdb.com/title/tt0086879/"
     },
@@ -8920,7 +8920,7 @@
         "Drama",
         "History"
       ],
-      "runtime_minutes": 161,
+      "runtime_minutes": 160,
       "plot": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
       "imdb_url": "https://www.imdb.com/title/tt0490215/"
     },
@@ -16761,7 +16761,7 @@
       "title": "Focker In-Law",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6,
+      "imdb_rating": 6.1,
       "genres": [
         "Comedy",
         "Drama"
@@ -17463,7 +17463,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.4,
+      "imdb_rating": 7.3,
       "genres": [
         "Biography",
         "Comedy",
@@ -19959,7 +19959,7 @@
       "title": "The Liberation",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7,
+      "imdb_rating": 7.1,
       "genres": [
         "Drama",
         "Mystery",
@@ -20214,7 +20214,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.3,
+      "imdb_rating": 7.6,
       "genres": [
         "Biography",
         "Crime",
