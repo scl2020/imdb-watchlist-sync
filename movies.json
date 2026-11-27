@@ -2,7 +2,7 @@
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
   "count": 1382,
-  "updated_at_utc": "2026-11-27T12:02:00+00:00",
+  "updated_at_utc": "2026-11-27T21:06:08+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -11345,7 +11345,7 @@
       "title": "Mouse",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 8,
+      "imdb_rating": 7.9,
       "genres": [
         "Comedy",
         "Drama"
@@ -15940,7 +15940,7 @@
         "Thriller"
       ],
       "runtime_minutes": null,
-      "plot": "A determined rookie detective eager to establish herself confronts a horrifying darkness that challenges her deepest convictions and tests everything she thought she knew about right and wrong.",
+      "plot": null,
       "imdb_url": "https://www.imdb.com/title/tt32492552/"
     },
     {
@@ -17166,7 +17166,7 @@
       "title": "The Mosquito Bowl",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.7,
+      "imdb_rating": 6.6,
       "genres": [
         "Drama",
         "History",
@@ -17280,7 +17280,7 @@
         "Comedy"
       ],
       "runtime_minutes": null,
-      "plot": "A country western star experiences a dramatic downfall and must navigate their career in free fall.",
+      "plot": "A country western star experiences a dramatic downfall and must navigate his career in free fall.",
       "imdb_url": "https://www.imdb.com/title/tt36593129/"
     },
     {
@@ -20214,7 +20214,7 @@
       "title": "November 1963",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.6,
+      "imdb_rating": 7.7,
       "genres": [
         "Biography",
         "Crime",
