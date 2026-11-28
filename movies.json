@@ -1,8 +1,8 @@
 {
   "source": "IMDb public watchlist",
   "watchlist_url": "https://www.imdb.com/user/p.pxpvlyl52ptzto5nuczrkyaiha/watchlist/",
-  "count": 1382,
-  "updated_at_utc": "2026-11-28T03:15:56+00:00",
+  "count": 1383,
+  "updated_at_utc": "2026-11-28T11:59:34+00:00",
   "items": [
     {
       "imdb_id": "tt0010323",
@@ -17149,7 +17149,7 @@
       "title": "The Further Mis-Adventures of Cliff Booth",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.8,
+      "imdb_rating": 7.9,
       "genres": [
         "Action",
         "Comedy",
@@ -17166,7 +17166,7 @@
       "title": "The Mosquito Bowl",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 6.6,
+      "imdb_rating": 6.7,
       "genres": [
         "Drama",
         "History",
@@ -17463,7 +17463,7 @@
       "title": "Artificial",
       "year": 2026,
       "type": "Movie",
-      "imdb_rating": 7.3,
+      "imdb_rating": 7.2,
       "genres": [
         "Biography",
         "Comedy",
@@ -17939,6 +17939,21 @@
       "runtime_minutes": 114,
       "plot": "A woman filming a documentary on childhood rape victims starts to question the nature of her childhood relationship with her riding instructor and running coach.",
       "imdb_url": "https://www.imdb.com/title/tt4015500/"
+    },
+    {
+      "imdb_id": "tt40311603",
+      "title": "Ghosts: The Possession of Button House",
+      "year": 2026,
+      "type": "Movie",
+      "imdb_rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtime_minutes": 97,
+      "plot": "A continuation of the original 2019 UK TV series.",
+      "imdb_url": "https://www.imdb.com/title/tt40311603/"
     },
     {
       "imdb_id": "tt4080728",
